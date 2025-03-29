@@ -61,9 +61,9 @@ python val.py
 ```
 ## Results
 Results on the MS COCO val2017
-|Method| Backbone| Schedule| AP |AP50| AP_75| APS| APM| APL|
+|Method| Backbone| Schedule| AP |AP50| AP_75| AP_S| AP_M| AP_L|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|Method| Backbone| Schedule| AP |AP50| AP75| APS| APM| APL|
-|Method| Backbone| Schedule| AP |AP50| AP75| APS| APM| APL|
+|Faster R-CNN|ResNet-50| 1×| 37.4| 57.9| 40.3| 19.4| 41.7| 48.1|
+|Faster R-CNN| ResNet-50| 2×| 38.4 |59.1| 41.6| 21.7| 42.1| 50.2|
 
 
