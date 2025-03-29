@@ -20,7 +20,7 @@ pip install -e .
 ### Prepare the dataset
 We used the dataset in [MS COCO](https://cocodataset.org/#home) and [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/index.html)
 
-Organize the files in the dataset into the following format
+Organize the files in the dataset into the following format:
 ```
 ├── iamges
 │   ├── 1.png
