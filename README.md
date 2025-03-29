@@ -77,7 +77,7 @@ If you find CAFPN useful in your research, please consider citing:
 ```
 @article{ting2025cafpn,
   title={nhancing Object Detection with Channel-augmented Asymptotic Feature Fusion},
-  author={Yifan Wang, Xianting Zeng, Yangyi Liu2, Wenjun Zhou, Quan Zhang},
+  author={Yifan Wang, Xianting Zeng, Yangyi Liu, Wenjun Zhou, Quan Zhang},
   journal={ The Visual Computer},
   year={2025},
   publisher={Springer}
