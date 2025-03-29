@@ -66,4 +66,10 @@ Results on the MS COCO val2017
 |Faster R-CNN + FPN|ResNet-50| 1×| 37.4| 57.9| 40.3| 19.4| 41.7| 48.1|None|
 |Faster R-CNN + CAFPN| ResNet-50| 1×| 39.4| 61.3| 42.6 |22.4| 42.5| 49.6|[Link](https://drive.google.com/file/d/1nYPbCah7EgNw1hkAS-AyN87FJ4vrA48R/view?usp=drive_link)|
 
+Results on the PASCAL VOC val07
+|Method| Neck |AP50| AP50:95| Params(M)|
+| --- | --- | --- | --- | --- |
+|YOLOv8-s| YOLOv8PAFPN| 74.6 |53.4 |6.78|None|
+|YOLOv8-s| CAFPN| 76.4| 55.8 |8.85|[Link](https://drive.google.com/file/d/1NysPsuDw1bczJ4Iq40181YBkqvVm6bo2/view?usp=drive_link)|
 
+## 
