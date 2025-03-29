@@ -61,5 +61,8 @@ python val.py
 ```
 ## Results
 Results on the MS COCO val2017
-markdown | 列1 | 列2 | 列3 | |——|——|——| | 数据1 | 数据2 | 数据3 | | 数据4 | 数据5 | 数据6 |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
