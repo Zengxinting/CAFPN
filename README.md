@@ -62,6 +62,7 @@ python val.py
 ## Results
 Results on the MS COCO val2017
 |Method| Backbone| Schedule| AP |AP50| AP_75| APS| APM| APL|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |Method| Backbone| Schedule| AP |AP50| AP75| APS| APM| APL|
 |Method| Backbone| Schedule| AP |AP50| AP75| APS| APM| APL|
 
