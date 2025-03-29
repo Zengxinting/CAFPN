@@ -3,7 +3,7 @@ This repository is the official implementation of "Enhancing Object Detection wi
 
 ![image](assets/CAFPN.png)
 
-##Installation
+## Installation
 
 If you want to run our code in the MMDetection library, please install the dependencies：
 ```
@@ -16,3 +16,6 @@ If you want to run our code in YOLO, please install the dependencies:
 cd YOLOv8
 pip install -e .
 ```
+## Training
+### Prepare the dataset
+We used the dataset in [MS COCO](https://cocodataset.org/#home) and [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/index.html)
