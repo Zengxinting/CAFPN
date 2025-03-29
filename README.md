@@ -59,5 +59,12 @@ If you want to evaluate in YOLO, please run the following code：
 ```
 python val.py
 ```
-## Acknowledgments
-This implementation is heavily inspired by [AFPN](https://github.com/gyyang23/AFPN) and CE-FPN.
+## Results
+Results on the MS COCO val2017
+“`markdown
+| 列1    | 列2    | 列3   |
+|——|——|—–|
+| 内容1  | 内容2  | 内容3 |
+| 内容4  | 内容5  | 内容6 |
+“`
+
