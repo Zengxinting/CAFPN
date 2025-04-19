@@ -1,5 +1,5 @@
 # Enhancing Object Detection with Channel-augmented Asymptotic Feature Fusion
-This repository is the official implementation of "Enhancing Object Detection with Channel-augmented Asymptotic Feature Fusion". The work is currently being submitted to [The Visual Computer](https://link.springer.com/journal/371)
+This repository is the official implementation of "Enhancing Object Detection with Channel-augmented Asymptotic Feature Fusion". 
 
 ![image](assets/CAFPN.png)
 
@@ -72,14 +72,4 @@ Results on the PASCAL VOC val07
 |YOLOv8-s| YOLOv8PAFPN| 74.6 |53.4 |6.78|None|
 |YOLOv8-s| CAFPN| 76.4| 55.8 |8.85|[Link](https://drive.google.com/file/d/1NysPsuDw1bczJ4Iq40181YBkqvVm6bo2/view?usp=drive_link)|
 
-## Citations
-If you find CAFPN useful in your research, please consider citing:
-```
-@article{ting2025cafpn,
-  title={nhancing Object Detection with Channel-augmented Asymptotic Feature Fusion},
-  author={Yifan Wang, Xianting Zeng, Yangyi Liu, Wenjun Zhou, Quan Zhang},
-  journal={ The Visual Computer},
-  year={2025},
-  publisher={Springer}
-}
-```
+
